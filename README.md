@@ -1,1 +1,1 @@
-This is a sample nodejs application: Lab 1
+This is a sample nodejs application: Task 1
